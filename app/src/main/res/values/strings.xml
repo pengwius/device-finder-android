@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+
+    <!-- General / app -->
+    <string name="app_name">Device Finder</string>
+
+    <!-- Bottom navigation labels -->
+    <string name="home">Home</string>
+    <string name="devices">Devices</string>
+    <string name="settings">Settings</string>
+
+    <!-- Theme / appearance -->
+    <string name="theme_label">Appearance</string>
+    <string name="theme_auto">Auto</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="monet_label">Dynamic colors</string>
+    <string name="use_monet_label">Use dynamic colors</string>
+
+    <!-- Language -->
+    <string name="language_list_label">Languages</string>
+    <string name="language_label">Language</string>
+    <string name="select_language">Select language</string>
+    <string name="language_auto">System default</string>
+    <string name="language_en">English</string>
+    <string name="language_pl">Polski</string>
+    <string name="selected_language">Selected</string>
+</resources>

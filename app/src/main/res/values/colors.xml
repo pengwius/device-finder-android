@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- New purple gradient palette -->
+    <color name="p_100">#FFF7F4FF</color> <!-- #f7f4ff -->
+    <color name="p_200">#FFE6DDFF</color> <!-- #e6ddff -->
+    <color name="p_300">#FFD6C6FF</color> <!-- #d6c6ff -->
+    <color name="p_400">#FFC6AFFF</color> <!-- #c6afff -->
+    <color name="p_500">#FFB99DFF</color> <!-- #b99dff -->
+    <color name="p_600">#FFAD8CFF</color> <!-- #ad8cff -->
+    <color name="p_700">#FF9C7EE6</color> <!-- #9c7ee6 -->
+    <color name="p_800">#FF8A70CC</color> <!-- #8a70cc -->
+    <color name="p_900">#FF705BA6</color> <!-- #705ba6 -->
+    <color name="p_1000">#FF574680</color> <!-- #574680 -->
+
+    <!-- Light theme semantic tokens (using palette) -->
+    <color name="light_primary">#FFC6AFFF</color>           <!-- p_400 -->
+    <color name="light_onPrimary">#FF1C1B1F</color>
+    <color name="light_primaryContainer">#FFE6DDFF</color>  <!-- p_200 -->
+    <color name="light_onPrimaryContainer">#FF1C1B1F</color>
+
+    <color name="light_secondary">#FFAD8CFF</color>         <!-- p_600 -->
+    <color name="light_onSecondary">#FF1C1B1F</color>
+    <color name="light_secondaryContainer">#FFD6C6FF</color> <!-- p_300 -->
+    <color name="light_onSecondaryContainer">#FF1C1B1F</color>
+
+    <color name="light_tertiary">#FF9C7EE6</color>          <!-- p_700 -->
+    <color name="light_onTertiary">#FF1C1B1F</color>
+
+    <color name="light_background">#FFF7F4FF</color>        <!-- p_100 -->
+    <color name="light_surface">#FFFFFFFF</color>
+    <color name="light_surfaceVariant">#FFE6DDFF</color>     <!-- p_200 -->
+    <color name="light_onSurface">#FF1C1B1F</color>
+
+    <!-- Dark theme semantic tokens (darker + subtle accent) -->
+    <color name="dark_primary">#FF705BA6</color>             <!-- p_900 -->
+    <color name="dark_onPrimary">#FFF7F4FF</color>
+    <color name="dark_primaryContainer">#FF5C4A73</color>    <!-- tweaked: muted, deeper -->
+    <color name="dark_onPrimaryContainer">#FFE6DDFF</color>
+
+    <color name="dark_secondary">#FF8A70CC</color>           <!-- p_800 -->
+    <color name="dark_onSecondary">#FFF7F4FF</color>
+    <color name="dark_secondaryContainer">#FF705BA6</color>  <!-- p_900 -->
+    <color name="dark_onSecondaryContainer">#FFE6DDFF</color>
+
+    <color name="dark_tertiary">#FF9C7EE6</color>            <!-- p_700 -->
+    <color name="dark_onTertiary">#FFF7F4FF</color>
+
+    <!-- key changes: deep background stays, surfaces move much closer to it -->
+    <color name="dark_background">#FF120E1E</color>          <!-- deep muted purple -->
+    <color name="dark_surface">#FF15121F</color>             <!-- very close to background -->
+    <color name="dark_surfaceVariant">#FF17142B</color>      <!-- subtle purple-tinted variant -->
+    <color name="dark_onSurface">#FFF7F4FF</color>
+
+    <!-- helpers -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
